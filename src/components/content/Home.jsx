@@ -10,8 +10,8 @@ const Home = () => {
     const timer = setInterval(() => {
       let getWord = options[pointer.wordPoint];
 
-      if (pointer.letterPoint == 0 && word == getWord) {
-        if (pointer.wordPoint + 1 == options.length) {
+      if (pointer.letterPoint === 0 && word === getWord) {
+        if (pointer.wordPoint + 1 === options.length) {
           setPointer({ ...pointer, wordPoint: 0 });
         } else {
           setPointer({ ...pointer, wordPoint: pointer.wordPoint + 1 });

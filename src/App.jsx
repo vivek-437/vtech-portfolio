@@ -22,11 +22,11 @@ const App=()=> {
   <>
    <LeftNavBar/>
   <Switch>
-    <Route exact path='/' component={Home} />
-    <Route  path='/project' component={Project} />
-    <Route  path='/contact' component={Contact} />
-    <Route  path='/education' component={Education} />
-    <Route  path='/skill' component={Skill} />
+    <Route exact path='/vtech-portfolio/' component={Home} />
+    <Route  path='/vtech-portfolio/project' component={Project} />
+    <Route  path='/vtech-portfolio/contact' component={Contact} />
+    <Route  path='/vtech-portfolio/education' component={Education} />
+    <Route  path='/vtech-portfolio/skill' component={Skill} />
   </Switch>
   <Footer/>
 

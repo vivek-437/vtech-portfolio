@@ -67,6 +67,9 @@
    
 }
 @media screen and (max-width:767px) {
+    .education{
+        overflow:hidden ;
+    }
     .education .outterEdu {
         width: 100%;
         text-align: left;

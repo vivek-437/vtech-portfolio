@@ -34,5 +34,8 @@
     .fotter_container .info{
         font-size: .8rem;
     }
+    .fotter_container .foot a{
+        font-size: .8rem;
+    }
 
 }

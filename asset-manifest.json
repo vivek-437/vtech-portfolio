@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "/vtech-portfolio/static/css/main.ffc93938.css",
-    "main.js": "/vtech-portfolio/static/js/main.b2657fda.js",
+    "main.css": "/vtech-portfolio/static/css/main.52cdb586.css",
+    "main.js": "/vtech-portfolio/static/js/main.ce835baa.js",
+    "static/media/portfolio.jpg": "/vtech-portfolio/static/media/portfolio.0cf053fadbab221376be.jpg",
     "static/media/my-img.jpg": "/vtech-portfolio/static/media/my-img.5c7da61f9fad239bb852.jpg",
     "static/media/song.jpg": "/vtech-portfolio/static/media/song.1856f483ca06d7a50b6b.jpg",
     "static/media/temperature.jpg": "/vtech-portfolio/static/media/temperature.5c70aeaec91b7af1f50f.jpg",
@@ -9,11 +10,11 @@
     "static/media/xogame.jpg": "/vtech-portfolio/static/media/xogame.cfd3d011776a2cafdd99.jpg",
     "index.html": "/vtech-portfolio/index.html",
     "static/media/download.pdf": "/vtech-portfolio/static/media/download.31d6cfe0d16ae931b73c.pdf",
-    "main.ffc93938.css.map": "/vtech-portfolio/static/css/main.ffc93938.css.map",
-    "main.b2657fda.js.map": "/vtech-portfolio/static/js/main.b2657fda.js.map"
+    "main.52cdb586.css.map": "/vtech-portfolio/static/css/main.52cdb586.css.map",
+    "main.ce835baa.js.map": "/vtech-portfolio/static/js/main.ce835baa.js.map"
   },
   "entrypoints": [
-    "static/css/main.ffc93938.css",
-    "static/js/main.b2657fda.js"
+    "static/css/main.52cdb586.css",
+    "static/js/main.ce835baa.js"
   ]
 }

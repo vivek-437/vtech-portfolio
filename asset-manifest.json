@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/vtech-portfolio/static/css/main.d1c2730c.css",
+    "main.js": "/vtech-portfolio/static/js/main.aaa77536.js",
+    "static/media/my-img.jpg": "/vtech-portfolio/static/media/my-img.5c7da61f9fad239bb852.jpg",
+    "static/media/song.jpg": "/vtech-portfolio/static/media/song.1856f483ca06d7a50b6b.jpg",
+    "static/media/temperature.jpg": "/vtech-portfolio/static/media/temperature.5c70aeaec91b7af1f50f.jpg",
+    "static/media/clock.jpg": "/vtech-portfolio/static/media/clock.c05fe2eb40ef2f9bdfd4.jpg",
+    "static/media/xogame.jpg": "/vtech-portfolio/static/media/xogame.cfd3d011776a2cafdd99.jpg",
+    "index.html": "/vtech-portfolio/index.html",
+    "static/media/download.pdf": "/vtech-portfolio/static/media/download.31d6cfe0d16ae931b73c.pdf",
+    "main.d1c2730c.css.map": "/vtech-portfolio/static/css/main.d1c2730c.css.map",
+    "main.aaa77536.js.map": "/vtech-portfolio/static/js/main.aaa77536.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1c2730c.css",
+    "static/js/main.aaa77536.js"
+  ]
+}

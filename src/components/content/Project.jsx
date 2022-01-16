@@ -11,7 +11,7 @@ const project = () => {
         </div>
         <div className="prjexp">
           <h6>{props.Title}</h6>
-          <p>{props.Data}</p>
+          <p className="size">{props.Data}</p>
         </div>
 
         <a href={props.Href}>get source code</a>

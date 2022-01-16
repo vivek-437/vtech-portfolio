@@ -202,11 +202,8 @@ img {
  
 }
 
-@media screen and (max-height:1096px) {
-  /* .Hcontent{
-    overflow-y: visible;
-  } */
-  /* .conhome{
-    position:;
-  } */
+@media screen and (max-width:412px) {
+.Hcontent .rewrite{
+  margin-top: 40px;
+}
 }

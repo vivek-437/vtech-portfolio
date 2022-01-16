@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <>
       <div className="fotter_container">
-        <div className="info">Copyright © 2022</div>
+        <div className="info">Copyright © 2022  V-tech</div>
         <div className="link">
             <ul className="foot">
           <a

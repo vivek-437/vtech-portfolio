@@ -10,26 +10,26 @@ const Prjdata=[
     {
         imsrc:Imrg1,
         title:"x zero",
-        data:"I am so exicted to paly my own game so I programmed this small game. I learn so many things such as changing variables..",
+        data:"I am always exicted to play my own game so I  tried programmed small game. I personally enjoy palying it..",
         link:"https://github.com/vivek-437/javascript/tree/main/project/x%20and%200",
     },
     {
         imsrc:Imrg2,
         title:"clock",
-        data:"It is difficult to me to find how many time it take to cover one minute. Here I learn some thing new such as animation and all.. ",
+        data:"It was difficult  me to find how many time it take to cover 360deg(60 second). Here I learn some thing new such as animation and all.. ",
         link:"https://github.com/vivek-437/javascript/tree/main/project/Clock",
     },
     
     {
         imsrc:Imrg4,
         title:"temperature converter",
-        data:"My younger brother asked me how many types of temperature are there I said two he was like😂 there is three so I programmed this to calculate temperature..",
+        data:"My younger brother asked me how many units of temperature are there I said two he was like😂 there is three. so I programmed this to calculate temperature unit..",
         link:"https://github.com/vivek-437/javascript/tree/main/project/temperature%20converter",
     },
     {
         imsrc:Imrg3,
         title:"music palyer",
-        data:"It is quite challenging to me while programming music player. When I got stuck I taked help from youtube channel and many website..",
+        data:"It was quite challenging for me to make music player. While doing it  I got stucked between,which i learned and correct it by learning from some youtube channel and other website..",
         link:"https://github.com/vivek-437/javascript/tree/main/project/music%20player",
     },
     {

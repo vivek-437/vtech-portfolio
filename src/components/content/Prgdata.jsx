@@ -1,0 +1,40 @@
+const Prgdata = [
+    {
+        Width:"50%",
+        Name:"python"
+    },
+    {
+        Width:"20%",
+        Name:"java"
+    },
+    {
+        Width:"45%",
+        Name:"php/mysql"
+    },
+    {
+        Width:"65%",
+        Name:"javascript",
+    },
+    {
+        Width:"66%",
+        Name:"react js",
+    },
+    {
+        Width:"80%",
+        Name:"firebase",
+    },
+    {
+        Width:"60%",
+        Name:"c/c++",
+    },{
+        Width:"45%",
+        Name:"git/github",
+    },{
+        Width:"68%",
+        Name:"r",
+    },
+    
+    
+]
+
+export default Prgdata

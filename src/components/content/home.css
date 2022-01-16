@@ -1,0 +1,212 @@
+
+/* @import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+P+One&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;1,400;1,800&family=Mochiy+Pop+P+One&family=Quicksand:wght@360&display=swap');
+*{
+  font-family: 'EB Garamond', serif;
+  font-family: 'Mochiy Pop P One', sans-serif;
+  font-family: 'Quicksand', sans-serif;
+}
+body {
+  /* overflow-x: hidden; */
+  /* overflow:hidden; */
+  word-wrap: break-word;
+
+
+  /* font-family: 'Mochiy Pop P One', sans-serif; */
+}
+.scrolly{
+  overflow-y: scroll;
+}
+.conhome{
+  position: fixed;
+}
+.container {
+  /* position: static;
+  z-index: 0; */
+  height: auto;
+  height: 100vh;
+  width: 100vw;
+  color: rgb(194, 189, 189);
+ text-align: center;
+ /* background-color: black; */
+}
+/* home */
+.Hcontent {
+    height: 100%;
+  width: 100%;
+  padding-top: 4%;
+  text-align: center;
+  background-size:cover;
+  background-repeat: no-repeat;
+  background-image: url(../../img/download.jpg);
+overflow-y: hidden;
+}
+.rewrite {
+  display: flex;
+position: relative;
+top: 0;
+left: 0;
+  justify-content: center;
+  font-size: 1.5rem;
+  margin-top: 1rem;
+}
+.rewrite .clear{
+  margin-left: 12px;
+  text-transform: capitalize;
+}
+/* .rewrite p {
+  margin-left: 1rem;
+} */
+h1 {
+  font-size: 2.5rem;
+  padding-bottom: 1rem;
+  margin: 1rem 0rem 1rem 0rem;
+}
+h3 {
+  padding-top: 2.5rem;
+  font-size: 3rem;
+  padding-bottom: 1rem;
+}
+span {
+  word-spacing: 0.2rem;
+}
+p {
+  font-size: 1.5rem;
+}
+
+.line {
+  padding-left: 0.1rem;
+  animation: blink 0.7s linear infinite;
+  font-weight: bolder;
+}
+@keyframes blink {
+  0% {
+    visibility: hidden;
+  }
+  50% {
+    visibility: hidden;
+  }
+  100% {
+    visibility: visible;
+  }
+}
+
+img {
+  object-fit: cover;
+  background-repeat: no-repeat;
+  /* background-size: 100%; */
+  border: rgb(47, 49, 49);
+  height: 100%;
+  width: 100%;
+}
+.socialMedia i {
+  cursor: pointer;
+}
+
+.socialMedia {
+  margin-top: 4rem;
+}
+
+.socialMedia a {
+  width: 3rem;
+  height: 3rem;
+  margin-right: 2rem;
+  padding: 1rem 1.2rem;
+  color: rgb(194, 189, 189);
+  font-size: 1.1rem;
+  border: 1px solid rgb(194, 189, 189);
+  border-radius: 50%;
+}
+.socialMedia a:hover {
+  color: rgb(228, 171, 87);
+}
+.insta {
+  background-color: #833ab4;
+}
+.facebook {
+  background-color: #3b5998;
+}
+.github {
+  background-color: #171515;
+}
+.linkedin {
+  background-color: #0077b5;
+}
+
+@media screen and (max-width: 1056px) {
+  .socialMedia ul a {
+    padding: 0.8rem 0.8rem;
+    display: block;
+  }
+.socialMedia{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+.rewrite .clear{
+  margin-left: 2px;
+}
+  .socialMedia ul{
+      /* margin-right: 5rem; */
+      display: flex;
+      margin-left:2% ;
+  }
+  .container .Hcontent{
+    display: grid;
+    /* padding-top: 5rem; */
+    justify-content: center;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+  }
+  h3 {
+    font-size: 26px;
+    height: 4rem;
+    display: none;
+  }
+  .rewrite{
+    position: relative;
+    /* margin-top: 0rem; */
+    top: -35px;
+  }
+  h1 {
+    font-size: 2rem;
+    height: 1rem;
+    margin-bottom: 2rem;
+    
+  }
+  .Hcontent{
+      padding-top: 0rem;
+  }
+  p{
+    
+    font-size: 15px;
+    padding: .5rem;
+    height: 5rem;
+  }
+  .rewrite{
+      font-size: 15px;
+      height: 1rem;
+      /* padding-top: 8px; */
+  }
+  .clear{
+      position: relative;
+      bottom: 8px;
+      /* text-transform: capitalize; */
+     
+  }
+  .socialMedia a{
+      margin-right: 1.3rem;
+  }
+ 
+}
+
+@media screen and (max-height:1096px) {
+  /* .Hcontent{
+    overflow-y: visible;
+  } */
+  /* .conhome{
+    position:;
+  } */
+}

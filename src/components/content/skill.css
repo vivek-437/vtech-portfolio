@@ -1,0 +1,83 @@
+.data{
+padding-top: 5%;
+ width: 85%;
+padding-bottom: 5%;
+ margin-left: 17.5%;
+ margin-right: 7.5%;
+
+}
+.conskill{
+    background-color: rgb(41, 41, 41);
+}
+
+.Skill .data .prgrepot span{
+    font-size: 1.5rem;
+    text-transform: uppercase;
+    
+}
+.Skill .data .prgrepot {
+    text-align: left;
+    padding-left: 2.5rem;
+}
+
+.Skill .head h2{
+display: none;
+}
+
+.Skill .intro{
+    position: relative;
+    padding-top: 2.5rem;
+    top: 20px;
+    font-size: 1.3rem;
+}
+.data .prgrepot .prgbar .prginc{
+    height: 2.5rem;
+width: 70%; 
+border: none;
+background-color: grey;
+border-radius: 5px;
+margin-top: 1rem;
+}
+.prgbar .prginc .precolor{
+    height: 100%;
+    border:none;
+    border-radius: 5px;
+    background-color: royalblue;
+    outline: none;
+
+}
+.prgbar .prginc .precolor:active{
+    border-color:none;
+    border-color: outset;
+}
+.data .prgrepot{
+    margin: 1rem 0rem 1rem 0rem;
+    padding-bottom: 1rem;
+}
+@media screen and (max-width:1300px) {
+    .Skill .head h2{
+        display: block;
+        text-transform: uppercase;
+        letter-spacing: .9px;
+        padding-top: 1.5rem;
+        }
+        .Skill .intro{
+            font-size: 1rem;
+            margin-bottom: 1.5rem;
+            text-align: justify;
+            /* padding:0rem 0rem 0rem 1rem ;
+             */
+             /* padding-left: 12%; */
+             text-align: center;
+        }
+        .Skill .data .prgrepot {
+            text-align: left;
+            padding-left: .5rem;
+        }
+        .Skill .data .prgrepot span{
+            font-size: 1.2rem;
+        }
+}
+@media screen and (max-width:767px) {
+    
+}

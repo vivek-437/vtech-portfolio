@@ -1,0 +1,133 @@
+.aboutme .img {
+  margin-left: 10vw;
+  width: 30vw;
+}
+.concontact{
+    /* padding-top: 5%; */
+    background-color: rgb(43, 43, 43);
+    position: fixed;
+}
+.aboutme{
+    padding-top: 5%;
+}
+.aboutme .block h2 {
+  font-size: 2.5rem;
+  /* position: relative; */
+  /* height: 3rem; */
+  margin-bottom: 1rem;
+  text-align: left;
+  text-transform: capitalize;
+}
+
+.aboutme .flex {
+  display: flex;
+}
+.aboutme .infomyself{
+    /* width: 50%; */
+    justify-content: center;
+    text-align: left;
+}
+.aboutme .block{
+    width: 50%;
+    text-align: left;
+}
+.aboutme img {
+  height: 15rem;
+  width: 13rem;
+  border-radius: 25%;
+}
+.block .contactdetails h2{
+    padding-top: 5%;
+}
+.block .contactdetails{
+    display: grid;
+}
+.block .infomyself,.block .contactdetails{
+    font-size: 1.2rem;
+}
+.resume{
+    margin-top: 1rem;
+    position: relative;
+    right: -52%;
+    top: -29%;
+}
+.resume .btn {
+    background-color: DodgerBlue;
+    border: none;
+    color: white;
+    padding: 12px 30px;
+    cursor: pointer;
+    font-size: 20px;
+    border-radius:8px;
+  }
+  .resume .btn a{
+    color: white;
+}
+.resume .btn:hover {
+    background-color: RoyalBlue;
+  }
+  .resume .fa-cloud-download-alt{
+    position: relative;
+    left: -12px;
+    bottom: -10px;
+}
+
+
+.resume .shift{
+    position: relative;
+    left: 12px;
+}
+.resume .btn a{
+    text-decoration: none;
+}
+@media screen and (max-width:1024px) {
+    /* tablet */
+
+}
+@media screen and (max-width:1300px) {
+    /* phone */
+    .aboutme .img {
+        width: 75vw;
+    }
+    .aboutme .flex {
+        display: block;
+    }
+    .aboutme img {
+        height: 10rem;
+        width: 10rem;
+    }
+    
+.aboutme .block{
+    width: 100%;
+    text-align: left;
+    padding-left: 2rem;
+    margin-top: 3rem;
+}
+.block .infomyself,.block .contactdetails{
+    font-size: 1rem;
+}
+.aboutme .block h2 {
+    font-size: 1.5rem;
+}
+
+
+
+.resume{
+    margin-top: 1.5rem;
+    top:0;
+    left: 0;
+}
+.resume .btn{
+    background-color: DodgerBlue;
+    border: none;
+    color: white;
+    padding: 12px 30px;
+    cursor: pointer;
+    font-size: 20px;
+  }
+  
+.resume .btn:hover {
+    background-color: RoyalBlue;
+  }
+  
+}

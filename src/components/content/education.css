@@ -1,0 +1,93 @@
+.education .outterEdu{
+    height: 100vh;
+    width: 80%;
+    float: right;
+    padding-top: 5%;
+
+}
+.coneducation{
+    position: fixed;
+}
+.education{
+    height: 100%;
+    background-color: rgb(58, 58, 58);
+}
+.education .outterEdu .hr{
+    background-color: white;
+    height: 1px;
+    width: 100%;
+}
+.education .outterEdu .edinfo{
+    height: 20%;
+    width: 100%;
+    text-align: left;
+    margin-top: 1.5rem;
+}
+.education .outterEdu .edinfo .name{
+    font-size: 2rem;
+    /* margin-top:; */
+ 
+}
+.education .outterEdu .edinfo .year{
+    font-size: 1.2rem;
+    margin-top: .3rem;
+}
+.education .outterEdu .edinfo .marks{
+    font-size: .9rem;
+    margin-top: .3rem;
+}
+.education .shhd{
+    display: none;
+}
+@media screen and (max-width:1300px) {
+    .education .outterEdu .edinfo .name{
+        font-size: 1.5rem;
+        /* margin-top:; */
+     
+    }
+    .education .outterEdu{
+        padding-top: 2%;
+    }
+    .education .outterEdu .edinfo .year{
+        font-size: 1rem;
+        margin-top: .3rem;
+    }
+    .education .outterEdu .edinfo .marks{
+        font-size: .8rem;
+        margin-top: .3rem;
+    }
+    .education .shhd{
+        display: block;
+        font-size: 1.5rem;
+        position: relative;
+        top: 30px;
+        /* text-decoration: ; */
+        text-transform: uppercase;
+    }
+   
+}
+@media screen and (max-width:767px) {
+    .education .outterEdu {
+        width: 100%;
+        text-align: left;
+        padding-left: 2rem;
+        padding-top: 6rem;
+    }
+  .education .outterEdu .edinfo{
+      padding-left: 1rem;
+
+  }
+  .education .outterEdu .edinfo .name{
+    font-size: 1.2rem;
+    /* margin-top:; */
+ 
+}
+.education .outterEdu .edinfo .year{
+    font-size: 1rem;
+    margin-top: .3rem;
+}
+.education .outterEdu .edinfo .marks{
+    font-size: .8rem;
+    margin-top: .3rem;
+}
+}

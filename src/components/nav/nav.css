@@ -1,0 +1,136 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+::-webkit-scrollbar {
+  display: none;
+}
+
+/* lefttopnavbar */
+
+.leftNavBr {
+  position: sticky;
+  top: 0;
+  width: 100vw;
+ 
+  z-index: 2;
+}
+
+
+.ItemBlock ,.ItemBlockt{
+  position: relative;
+  height: 3rem;
+  color: white;
+  font-size: 0.9rem;
+  background-color: rgb(47, 49, 49);
+}
+.ItemBlock .hover,.ItemBlockt .hover {
+  text-align: center;
+  cursor: pointer;
+  margin: 0rem 2rem 0rem 1rem;
+  padding-top: 1rem;
+  width: 10%;
+  text-transform: uppercase;
+}
+
+
+.hover {
+  color: white;
+  text-decoration: none;
+  list-style: none outside none;
+}
+.ItemBlock ul,.ItemBlockt ul {
+  display: flex;
+  justify-content: center;
+  height: 4rem;
+}
+
+.hover:hover::before {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  opacity: 1;
+  height: 1px;
+  content: "";
+  -webkit-transition: all ease 0.3s;
+  transition: all ease 0.3s;
+  background: rgb(225, 161, 65);
+}
+.activeLink {
+  color: rgb(225, 161, 65);
+  /* color: #eeff05; */
+}
+.collapBtn {
+  display: none;
+}
+
+@media screen and (max-width: 1056px) {
+
+  .collapBtn {
+    display: block;
+    height: 3rem;
+    width: 2.5rem;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    opacity: 0.7;
+    font-size: 1.4rem;
+    border-radius: 15%;
+    cursor: pointer;
+    background-color: rgb(233, 149, 24);
+    padding: 8px;
+    color: rgb(255, 255, 255);
+  }
+  .ItemBlockt{
+    height: 18rem;
+  }
+ 
+  .ItemBlockt ul {
+    position: relative;
+    height: 100%;
+    bottom: 30px;
+    align-items: center;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .hover:hover::before {
+    content: "";
+    bottom: -30px;
+  }
+  .ItemBlockt ul a {
+    width: 100%;
+    /* height: 3rem; */
+    font-size: 1.3rem;
+  }
+  
+  .ItemBlockt ul a:hover {
+    color: rgb(225, 161, 65);
+  }
+
+ 
+  .dis {
+    display: none;
+  }
+  .ItemBlock {
+    display: none;
+   
+  }
+  .ItemBlockt{
+    display: block;
+    width: 50vw;
+    float: right;
+    padding-top: 2rem;
+    position: fixed;
+    right: 25%;
+    top: 150px;
+    background: rgb(47, 49, 49);
+    opacity: 0.7;
+  }
+}
+
+

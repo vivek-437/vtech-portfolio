@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/vtech-portfolio/static/css/main.5453b2e6.css",
+    "main.css": "/vtech-portfolio/static/css/main.690abf05.css",
     "main.js": "/vtech-portfolio/static/js/main.ce835baa.js",
     "static/media/portfolio.jpg": "/vtech-portfolio/static/media/portfolio.0cf053fadbab221376be.jpg",
     "static/media/my-img.jpg": "/vtech-portfolio/static/media/my-img.5c7da61f9fad239bb852.jpg",
@@ -10,11 +10,11 @@
     "static/media/xogame.jpg": "/vtech-portfolio/static/media/xogame.cfd3d011776a2cafdd99.jpg",
     "index.html": "/vtech-portfolio/index.html",
     "static/media/download.pdf": "/vtech-portfolio/static/media/download.31d6cfe0d16ae931b73c.pdf",
-    "main.5453b2e6.css.map": "/vtech-portfolio/static/css/main.5453b2e6.css.map",
+    "main.690abf05.css.map": "/vtech-portfolio/static/css/main.690abf05.css.map",
     "main.ce835baa.js.map": "/vtech-portfolio/static/js/main.ce835baa.js.map"
   },
   "entrypoints": [
-    "static/css/main.5453b2e6.css",
+    "static/css/main.690abf05.css",
     "static/js/main.ce835baa.js"
   ]
 }

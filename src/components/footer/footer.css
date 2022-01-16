@@ -30,3 +30,9 @@
     padding-right: 1rem;
     margin-top: 1rem;
 }
+@media screen and (max-width: 1056px) {
+    .fotter_container .info{
+        font-size: .8rem;
+    }
+
+}

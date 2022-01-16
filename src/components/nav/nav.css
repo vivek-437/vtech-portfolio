@@ -66,8 +66,12 @@
 .collapBtn {
   display: none;
 }
+@media screen and (max-width: 972px)  {
 
-@media screen and (max-width: 1056px) {
+}
+
+
+@media screen and (max-width: 972px) {
 
   .collapBtn {
     display: block;

@@ -10,7 +10,7 @@ const Prjdata=[
     {
         imsrc:Imrg1,
         title:"x zero",
-        data:"I am always exicted to play my own game so I  tried programmed small game. I personally enjoy palying it..",
+        data:"I am always exicted to play my own game so I  tried to programmed small game. I personally enjoy playing it..",
         link:"https://github.com/vivek-437/javascript/tree/main/project/x%20and%200",
     },
     {

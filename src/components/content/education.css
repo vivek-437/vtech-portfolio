@@ -44,9 +44,7 @@
   .education .outterEdu {
     padding-top: 2%;
   }
-  .coneducation{
-      position: relative;
-  }
+
   .education .outterEdu .edinfo .year {
     font-size: 1rem;
     margin-top: 0.3rem;
@@ -66,7 +64,7 @@
 }
 @media screen and (max-width: 767px) {
   .education {
-    overflow: hidden;
+    overflow-y: scroll;
   }
   .education .outterEdu {
     width: 100%;

@@ -8,7 +8,7 @@ const Prgdata = [
         Name:"java"
     },
     {
-        Width:"45%",
+        Width:"55%",
         Name:"php/mysql"
     },
     {
@@ -27,7 +27,7 @@ const Prgdata = [
         Width:"60%",
         Name:"c/c++",
     },{
-        Width:"45%",
+        Width:"35%",
         Name:"git/github",
     },{
         Width:"68%",

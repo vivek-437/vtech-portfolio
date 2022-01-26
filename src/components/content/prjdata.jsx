@@ -3,6 +3,7 @@ import Imrg2 from '../../img/prjimg/clock.jpg';
 import Imrg3 from '../../img/prjimg/song.jpg';
 import Imrg4 from '../../img/prjimg/temperature.jpg';
 import Imrg5 from "../../img/prjimg/portfolio.jpg";
+import Imrg6 from "../../img/prjimg/Shopping-website.jpg";
 
 
 
@@ -38,6 +39,12 @@ const Prjdata=[
         data:"Working on my own portfolio I learned new css properties such as animation and creating different components make its easy..",
         link:"https://github.com/vivek-437/vtech-portfolio",
     },
+    {
+        imsrc:Imrg6,
+        title:"Shopping-website",
+        data:"It was a great Experience while dealing with database, fetching data from database and using sessions .throughout this project my skills are improved",
+        link:"https://github.com/vivek-437/Php-Mysql/tree/main/Shopping%20website",
+    }
 ]
 
 export default Prjdata 

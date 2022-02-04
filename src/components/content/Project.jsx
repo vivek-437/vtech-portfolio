@@ -7,14 +7,16 @@ const project = () => {
       <>
         <div className="pjdata">
         <div className="prjimg">
+          <a href={props.Title_link} target="_blank" rel="noopener noreferrer">
           <img src={props.Imgsrc} alt="Not Found" srcSet="" />
+          </a>
         </div>
         <div className="prjexp">
           <h6>{props.Title}</h6>
           <p className="size">{props.Data}</p>
         </div>
 
-        <a href={props.Href}>get source code</a>
+        <a href={props.Href} className="get_source">get source code</a>
         </div>
       </>
     );
@@ -37,6 +39,7 @@ const project = () => {
                       <Prjdataruner
                         Imgsrc={val.imsrc}
                         Title={val.title}
+                        Title_link={val.title_link}
                         Data={val.data}
                         Href={val.link}
                       />

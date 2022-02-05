@@ -1,6 +1,6 @@
 import React from 'react'
 import img from '../../img/my-img.jpg'
-
+import downloadresume from "../download/download.pdf";
 const Content = () => {
     return (
         <>
@@ -26,9 +26,9 @@ const Content = () => {
                     <span>Vivekgupta2742003@gmail.com</span>
                 </div>
                 <div className='resume'>
-                <a href="https://github.com/vivek-437/vtech-portfolio/raw/main/src/components/download/download.pdf" >
-                <button class="btn">
-                    <i class="fa fa-cloud-download-alt"></i>  Download <span className='shift'><br />Resume</span></button></a>
+                <a href={downloadresume}  download>
+                <button className="btn">
+                    <i className="fa fa-cloud-download-alt"></i>  Download <span className='shift'><br />Resume</span></button></a>
                 </div>
                 </div></div>
             </div>

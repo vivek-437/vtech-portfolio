@@ -26,7 +26,7 @@ const Content = () => {
                     <span>Vivekgupta2742003@gmail.com</span>
                 </div>
                 <div className='resume'>
-                <button class="btn"><a href="https://github.com/vivek-437/vtech-portfolio/raw/main/src/components/download/download.pdf" download="Resume">
+                <button class="btn"><a href="https://github.com/vivek-437/vtech-portfolio/raw/main/src/components/download/download.pdf" >
                     <i class="fa fa-cloud-download-alt"></i>  Download <span className='shift'><br />Resume</span></a></button>
                 </div>
                 </div></div>

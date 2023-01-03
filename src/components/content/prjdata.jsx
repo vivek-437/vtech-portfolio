@@ -29,7 +29,7 @@ const Prjdata=[
     },
     {
         imsrc:Imrg3,
-        title:"music palyer",
+        title:"music player",
         data:"It was quite challenging for me to make music player. While doing it  I got stucked between,which i learned and correct it by learning from some youtube channel and other website..",
         link:"https://github.com/vivek-437/javascript/tree/main/project/music%20player",
     },

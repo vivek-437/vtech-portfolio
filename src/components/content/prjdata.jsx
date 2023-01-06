@@ -12,12 +12,14 @@ const Prjdata=[
         imsrc:Imrg1,
         title:"x zero",
         data:"I am always exicted to play my own game so I  tried to programmed small game. I personally enjoy playing it..",
+        title_link:"https://vivek-437.github.io/x-and-zero/",
         link:"https://github.com/vivek-437/javascript/tree/main/project/x%20and%200",
     },
     {
         imsrc:Imrg2,
         title:"clock",
         data:"It was difficult  me to find how many time it take to cover 360deg(60 second). Here I learn some thing new such as animation and all.. ",
+        title_link:"https://vivek-437.github.io/realtime_clock/",
         link:"https://github.com/vivek-437/javascript/tree/main/project/Clock",
     },
     

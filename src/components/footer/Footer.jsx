@@ -8,7 +8,7 @@ const Footer = () => {
         <div className="link">
             <ul className="foot">
           <a
-            href="https://instagram.com/______patcher_____"
+            href="https://instagram.com/_____.vivek.____"
             target="blank"
             rel="icon"
             className="instafoot"

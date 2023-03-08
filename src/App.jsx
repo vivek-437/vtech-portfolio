@@ -9,11 +9,11 @@ import LeftNavBar from "./components/nav/Leftnav";
 import Footer from "./components/footer/Footer";
 // css
 import "./components/footer/footer.css";
-import "./components/content/contact.css";
-import "./components/content/home.css";
-import "./components/content/skill.css";
-import "./components/content/education.css";
-import "./components/content/project.css";
+import "./components/css/contact.css";
+import "./components/css/home.css";
+import "./components/css/skill.css";
+import "./components/css/education.css";
+import "./components/css/project.css";
 // img
 
 const App = () => {

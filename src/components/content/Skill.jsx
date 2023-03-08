@@ -1,5 +1,5 @@
 import React from 'react'
-import Prgdata from './Prgdata'
+import Prgdata from '../json/Prgdata'
 const Skill = () => {
    
     const Prgrun=(props)=>{

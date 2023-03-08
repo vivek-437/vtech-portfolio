@@ -1,5 +1,5 @@
 import React from "react";
-import Edudata from "./Edudata";
+import Edudata from "../json/Edudata";
 
 const Education = () => {
   const Eduinfo = (props) => {

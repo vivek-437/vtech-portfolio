@@ -1,5 +1,5 @@
 import React from "react";
-import Prjdata from "./prjdata";
+import Prjdata from "../json/prjdata";
 const project = () => {
   
   const Prjdataruner = (props) => {

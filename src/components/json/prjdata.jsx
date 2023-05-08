@@ -9,6 +9,29 @@ import Imrg7 from "../../img/prjimg/netflix-clone.jpg";
 
 const Prjdata=[
     {
+        imsrc:Imrg6,
+        title:"Food order-website",
+        title_link:"https://vtechfoodorder.000webhostapp.com/",
+        data:"It was a great Experience while dealing with database, fetching data from database and using sessions .throughout this project my skills are improved",
+        link:"https://github.com/vivek-437/Php-Mysql/tree/main/Shopping%20website",
+    },
+    
+    {
+        imsrc:Imrg7,
+        title:"Netflix-Clone",
+        title_link:"https://vivek-437.github.io/Netflix-Clone/",
+        data:"While working on netflix I am so excited to paly with APIs and I learned how to fetch data from APIs.",
+        link:"https://github.com/vivek-437/Netflix-Clone",
+    },
+    {
+        imsrc:Imrg5,
+        title:"my-website",
+        data:"Working on my own portfolio I learned new css properties such as animation and creating different components make its easy..",
+        title_link:"https://vivek-437.github.io/vtech-portfolio/",
+        link:"https://github.com/vivek-437/vtech-portfolio",
+    }
+    ,
+    {
         imsrc:Imrg1,
         title:"x zero",
         data:"I am always exicted to play my own game so I  tried to programmed small game. I personally enjoy playing it..",
@@ -34,26 +57,6 @@ const Prjdata=[
         title:"music player",
         data:"It was quite challenging for me to make music player. While doing it  I got stucked between,which i learned and correct it by learning from some youtube channel and other website..",
         link:"https://github.com/vivek-437/javascript/tree/main/project/music%20player",
-    },
-    {
-        imsrc:Imrg5,
-        title:"my-website",
-        data:"Working on my own portfolio I learned new css properties such as animation and creating different components make its easy..",
-        title_link:"https://vivek-437.github.io/vtech-portfolio/",
-        link:"https://github.com/vivek-437/vtech-portfolio",
-    },
-    {
-        imsrc:Imrg6,
-        title:"Food order-website",
-        data:"It was a great Experience while dealing with database, fetching data from database and using sessions .throughout this project my skills are improved",
-        link:"https://github.com/vivek-437/Php-Mysql/tree/main/Shopping%20website",
-    },
-    {
-        imsrc:Imrg7,
-        title:"Netflix-Clone",
-        title_link:"https://vivek-437.github.io/Netflix-Clone/",
-        data:"While working on netflix I am so excited to paly with APIs and I learned how to fetch data from APIs.",
-        link:"https://github.com/vivek-437/Netflix-Clone",
     }
 ]
 

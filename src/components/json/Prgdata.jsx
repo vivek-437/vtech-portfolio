@@ -29,9 +29,6 @@ const Prgdata = [
     },{
         Width:"35%",
         Name:"git/github",
-    },{
-        Width:"68%",
-        Name:"r",
     },
     
     

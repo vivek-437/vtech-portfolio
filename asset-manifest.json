@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/vtech-portfolio/static/css/main.9c417362.css",
-    "main.js": "/vtech-portfolio/static/js/main.9d88971c.js",
+    "main.js": "/vtech-portfolio/static/js/main.6607938a.js",
     "static/media/netflix-clone.jpg": "/vtech-portfolio/static/media/netflix-clone.47712ac0e4f0fab510d6.jpg",
     "static/media/Shopping-website.jpg": "/vtech-portfolio/static/media/Shopping-website.68bb61155398a6ab9d25.jpg",
     "static/media/portfolio.jpg": "/vtech-portfolio/static/media/portfolio.0cf053fadbab221376be.jpg",
@@ -10,13 +10,13 @@
     "static/media/temperature.jpg": "/vtech-portfolio/static/media/temperature.5c70aeaec91b7af1f50f.jpg",
     "static/media/clock.jpg": "/vtech-portfolio/static/media/clock.c05fe2eb40ef2f9bdfd4.jpg",
     "static/media/xogame.jpg": "/vtech-portfolio/static/media/xogame.cfd3d011776a2cafdd99.jpg",
-    "static/media/download.pdf": "/vtech-portfolio/static/media/download.3e0e93afc28b146c1035.pdf",
+    "static/media/download.pdf": "/vtech-portfolio/static/media/download.1b2a7834b7e01c214f96.pdf",
     "index.html": "/vtech-portfolio/index.html",
     "main.9c417362.css.map": "/vtech-portfolio/static/css/main.9c417362.css.map",
-    "main.9d88971c.js.map": "/vtech-portfolio/static/js/main.9d88971c.js.map"
+    "main.6607938a.js.map": "/vtech-portfolio/static/js/main.6607938a.js.map"
   },
   "entrypoints": [
     "static/css/main.9c417362.css",
-    "static/js/main.9d88971c.js"
+    "static/js/main.6607938a.js"
   ]
 }

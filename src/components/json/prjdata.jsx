@@ -36,7 +36,7 @@ const Prjdata=[
     {
         imsrc:Imrg8,
         title:"expression recognition",
-        data:"The application is designed to capture a facial image and use facial recognition method to suggest a song based on the features of the individual's face..",
+        data:"The application is designed to capture a facial image and use facial recognition method to suggest a song based on the individual's face expression..",
         link:"https://github.com/vivek-437",
     },
     {

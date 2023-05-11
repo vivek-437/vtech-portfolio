@@ -1,14 +1,15 @@
 const Prgdata = [
+    
     {
-        Width:"50%",
+        Width:"35%",
         Name:"python"
     },
     {
-        Width:"20%",
+        Width:"25%",
         Name:"java"
     },
     {
-        Width:"55%",
+        Width:"50%",
         Name:"php/mysql"
     },
     {
@@ -16,21 +17,24 @@ const Prgdata = [
         Name:"javascript",
     },
     {
-        Width:"66%",
+        Width:"30%",
         Name:"react js",
     },
     {
-        Width:"80%",
+        Width:"40%",
         Name:"firebase",
     },
     {
-        Width:"60%",
+        Width:"40%",
         Name:"c/c++",
     },{
-        Width:"35%",
+        Width:"30%",
         Name:"git/github",
     },
-    
+    {
+        Width:"45%",
+        Name:"Html/Css",    
+    },
     
 ]
 

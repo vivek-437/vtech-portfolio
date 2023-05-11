@@ -20,7 +20,6 @@ const Content = () => {
                 </div>
                 <div className='contactdetails'>
                 <h2>contact details</h2>
-
                     <span>Vivek Gupta,</span>
                     <span>Mumbai,Maharashtra,</span>
                     <span>Vivekgupta2742003@gmail.com</span>

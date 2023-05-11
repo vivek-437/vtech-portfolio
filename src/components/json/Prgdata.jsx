@@ -13,7 +13,7 @@ const Prgdata = [
         Name:"php/mysql"
     },
     {
-        Width:"65%",
+        Width:"35%",
         Name:"javascript",
     },
     {

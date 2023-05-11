@@ -16,7 +16,7 @@ const Content = () => {
               <div className='block'>
               <h2>about me</h2>
                 <div className='infomyself'>
-                I am Vivek,I'm in second year of Bsc IT in Sir Sitaram & Lady Shantabai Patkar College of Arts & Science.My aim is to become Software Developer and Ethical Hacker..
+                Hello, I'm Vivek, a recent graduate of BSc IT from Sir Sitaram & Lady Shantabai Patkar College of Arts & Science. I have a strong ambition to pursue a career as a Software Developer and Ethical Hacker...
                 </div>
                 <div className='contactdetails'>
                 <h2>contact details</h2>
